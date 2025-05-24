@@ -1,5 +1,3 @@
-# HiRe.pytorch
-
 
 ### Set up
 ```
