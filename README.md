@@ -33,3 +33,14 @@ To test HiRe on Nell-One under 5-shot setting using checkpoints:
 python main.py --dataset NELL-One --few 5 --prefix example-test-ckpt-nell --learning_rate 0.001 --checkpoint_epoch 1000 --eval_epoch 1000 --batch_size 1024 --device 0 --eval_ckpt ./best_ckpt/nell_5shot_best.ckpt --step test
 ```
 
+
+These files are very large, have not been uploaded 
+
+Hire-state is model parameters
+
+my-checkpoint is model parameters
+
+Nell-HiRe is pretrain KG embeddings
+
+Wiki-HiRe is pretrain KG embeddings
+
